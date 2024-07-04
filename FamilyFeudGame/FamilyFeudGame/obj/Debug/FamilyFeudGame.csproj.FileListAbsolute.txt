@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\FamilyFeudGame\FamilyFeudGame\bin\Debug\FamilyFeudGame.exe.config
+C:\Users\user\source\repos\FamilyFeudGame\FamilyFeudGame\bin\Debug\FamilyFeudGame.exe
+C:\Users\user\source\repos\FamilyFeudGame\FamilyFeudGame\bin\Debug\FamilyFeudGame.pdb
+C:\Users\user\source\repos\FamilyFeudGame\FamilyFeudGame\obj\Debug\FamilyFeudGame.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FamilyFeudGame\FamilyFeudGame\obj\Debug\FamilyFeudGame.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FamilyFeudGame\FamilyFeudGame\obj\Debug\FamilyFeudGame.exe
+C:\Users\user\source\repos\FamilyFeudGame\FamilyFeudGame\obj\Debug\FamilyFeudGame.pdb
